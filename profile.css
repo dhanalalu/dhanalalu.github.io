@@ -1,0 +1,25 @@
+h1{
+    color: azure;
+}
+h3{
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+}
+
+body{
+    border: 8px solid transparent;
+    background-color: rgb(51, 125, 154);
+    width:auto;
+    margin:6%;
+    background-size:contain;
+    border:6px solid black;
+    margin-top:2%;
+}  
+.projects, .CERTIFICATIONS, .Contact {
+    color: white;
+}
+ul {
+    color: rgba(227, 231, 233, 0.937);
+}
